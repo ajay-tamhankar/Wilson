@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585285094741",
+    "project_id": "wilson-cb28c",
+    "storage_bucket": "wilson-cb28c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585285094741:android:a960a46ebda3c0c4ce73dc",
+        "android_client_info": {
+          "package_name": "com.example.winson_wings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585285094741-0gvfboecg59bvs8ucjb38ql0q4pttpq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_cdKTuAup4Vx-VRKnk3zkY4S_Soak8IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585285094741-0gvfboecg59bvs8ucjb38ql0q4pttpq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
